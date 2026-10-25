@@ -1,0 +1,20 @@
+:root {
+  --color-navy: #0d1e39;
+  --color-cream: #fdf3e6;
+  --color-bg: #fdf3e6;
+  --color-surface: #ffffff;
+  --color-text: #0d1e39;
+  --color-muted: rgba(13, 30, 57, 0.64);
+  --color-primary: #0d1e39;
+  --color-primary-dark: #081428;
+  --color-line: rgba(13, 30, 57, 0.1);
+  --color-on-primary: #ffffff;
+  --font-family: "Vazirmatn", Tahoma, sans-serif;
+  --font-display: "Nunito", "Vazirmatn", sans-serif;
+  --container: 1240px;
+  --header-height: 98px;
+  --space-section: 4.5rem;
+  --radius: 18px;
+  --shadow-bar: 0 10px 34px rgba(13, 30, 57, 0.06);
+  --shadow-card: 0 14px 34px rgba(13, 30, 57, 0.06);
+}

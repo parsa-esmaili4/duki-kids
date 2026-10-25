@@ -1,0 +1,13 @@
+/*
+Theme Name: Duki Kids
+Theme URI: https://example.com/duki-kids
+Author: Duki Kids
+Description: قالب لندینگ دوکی کیدز. پیش‌نمایش استاتیک با index.html است و وردپرس از front-page.php استفاده می‌کند.
+Version: 0.1.0
+Requires at least: 6.4
+Tested up to: 6.7
+Requires PHP: 8.0
+Text Domain: duki-kids
+*/
+
+/* استایل‌ها در assets/css هستند و از inc/enqueue.php لود می‌شوند. */
